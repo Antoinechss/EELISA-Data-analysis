@@ -24,11 +24,13 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 translator = pipeline("translation", model=model, tokenizer=tokenizer, src_lang="auto", tgt_lang="eng_Latn", device=0, max_length=512)
 
+
 def is_english(text):
     try:
         return detect(text.strip()) == "en"
     except LangDetectException:
         return False
+
 
 def translate_column(column):
     results = []
@@ -59,6 +61,7 @@ def translate_column(column):
     with open(cache_path, 'wb') as f:
         pickle.dump(translation_cache, f)
     return results
+
 
 df['job_title_en'] = translate_column('job_title')
 df['full_description_en'] = translate_column('full_description')

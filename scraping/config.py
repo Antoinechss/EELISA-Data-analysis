@@ -1,14 +1,14 @@
 MODE = "full"
 
 EURES_URL = "https://europa.eu/eures/api/jv-searchengine/public/jv-search/search"
-
-HEADERS = {
+EURES_HEADERS = {
     "User-Agent": "Mozilla/5.0",
     "Accept": "application/json, text/plain, */*",
     "Content-Type": "application/json",
     "Origin": "https://europa.eu",
     "Referer": "https://europa.eu/eures/portal/jv-se/search"
 }
+
 
 COUNTRY_CODES = [
     "be", "bg", "cz", "dk", "de", "ee", "ie", "el", "es", "fr",

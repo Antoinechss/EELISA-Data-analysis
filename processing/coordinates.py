@@ -1,8 +1,8 @@
 from nuts import NUTS_REGIONS, NUTS_COORDINATES
 import pandas as pd
 
-jobs_dataset = '/Users/antoinechosson/Desktop/EELISA/EELISA-Data-analysis/eures_jobs_full.csv'
-output_path = '/Users/antoinechosson/Desktop/EELISA/EELISA-Data-analysis/eures_jobs_full_withcoordinates.csv'
+jobs_dataset = '/Users/antoinechosson/Desktop/EELISA/EELISA-Data-analysis/datasets/european_jobs.csv'
+output_path = '/Users/antoinechosson/Desktop/EELISA/EELISA-Data-analysis/datasets/european_jobs_withcoordinates.csv'
 df = pd.read_csv(jobs_dataset)
 
 

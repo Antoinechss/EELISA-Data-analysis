@@ -50,4 +50,7 @@ Job Field Classification
 
 * python processing/enrich_field.py
 
+[Note_on_EELISA_Dataset.pdf](https://github.com/user-attachments/files/24017907/Note_on_EELISA_Dataset.pdf)
+
+
 License : Research use — part of the EELISA Data Science Mission.

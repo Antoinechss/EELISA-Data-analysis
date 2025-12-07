@@ -4,27 +4,9 @@ This project builds a complete data pipeline for collecting, cleaning, translati
 It integrates job vacancies from:
 
 * EURES (European Commission job mobility portal)
-
 * Yenibiris (Turkey’s leading job platform)
 
 and outputs a unified, analysis-ready dataset.
-
-📂 Project Structure
-datasets/               # Raw and processed datasets
-processing/
-│── translation/        # Translation scripts & utilities
-│── dates.py            # Date parsing & normalization
-│── coordinates.py      # Geocoding utilities
-│── deduplicate.py      # Duplicate removal
-│── enrich_field.py     # AI-based job field classification
-│── indexes.py          # Index cleanup
-│── inferred_fields.json# Cache for classification
-│── TR_processing.py    # Turkey-specific preprocessing
-scraping/
-│── config.py           # Scraper settings and endpoints
-│── eures_scraper.py    # Scrapes EURES platform
-│── turkey_scraper.py   # Scrapes Yenibiris
-│── scraping_utils.py   # Shared scraping helpers
 
 Pipeline Overview
 
@@ -49,8 +31,5 @@ Translation
 Job Field Classification
 
 * python processing/enrich_field.py
-
-[Note_on_EELISA_Dataset.pdf](https://github.com/user-attachments/files/24017907/Note_on_EELISA_Dataset.pdf)
-
 
 License : Research use — part of the EELISA Data Science Mission.

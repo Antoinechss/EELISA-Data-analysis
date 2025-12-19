@@ -2,13 +2,19 @@ import pandas as pd
 import time
 import json
 import re
+import os
+from dotenv import load_dotenv
 from openai import OpenAI
 
 # -----------------------------
 # CONFIG
 # -----------------------------
 
-client = OpenAI()
+# Load environment variables
+load_dotenv()
+
+# Use the environment variable
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 INPUT_CSV = "/Users/antoinechosson/Desktop/EELISA/EELISA-Data-analysis/datasets/european_jobs.csv"
 OUTPUT_CSV = "/Users/antoinechosson/Desktop/EELISA/EELISA-Data-analysis/datasets/european_jobs_translated_descriptions.csv"

@@ -1,0 +1,182 @@
+3_digit_code,3_digit_label,4_digit_code,4_digit_label
+121,Business Services and Administration Managers,1213,Policy and Planning Managers
+122,"Sales, Marketing and Development Managers",1223,Research and Development Managers
+132,"Manufacturing, Mining, Construction and Distribution Managers",1321,Manufacturing Managers
+132,"Manufacturing, Mining, Construction and Distribution Managers",1322,Mining Managers
+132,"Manufacturing, Mining, Construction and Distribution Managers",1323,Construction Managers
+132,"Manufacturing, Mining, Construction and Distribution Managers",1324,"Supply, Distribution and Related Managers"
+133,Information and Communications Technology Services Managers,1330,Information and Communications Technology Services Managers
+211,Physical and Earth Science Professionals,2111,Physicists and Astronomers
+211,Physical and Earth Science Professionals,2112,Meteorologists
+211,Physical and Earth Science Professionals,2113,Chemists
+211,Physical and Earth Science Professionals,2114,Geologists and Geophysicists
+212,"Mathematicians, Actuaries and Statisticians",2120,"Mathematicians, Actuaries and Statisticians"
+213,Life Science Professionals,2131,"Biologists, Botanists, Zoologists and Related Professionals"
+213,Life Science Professionals,2132,"Farming, Forestry and Fisheries Advisers"
+213,Life Science Professionals,2133,Environmental Protection Professionals
+214,Engineering Professionals (excluding Electrotechnology),2141,Industrial and Production Engineers
+214,Engineering Professionals (excluding Electrotechnology),2142,Civil Engineers
+214,Engineering Professionals (excluding Electrotechnology),2143,Environmental Engineers
+214,Engineering Professionals (excluding Electrotechnology),2144,Mechanical Engineers
+214,Engineering Professionals (excluding Electrotechnology),2145,Chemical Engineers
+214,Engineering Professionals (excluding Electrotechnology),2146,"Mining Engineers, Metallurgists and Related Professionals"
+214,Engineering Professionals (excluding Electrotechnology),2149,Engineering Professionals Not Elsewhere Classified
+215,Electrotechnology Engineers,2151,Electrical Engineers
+215,Electrotechnology Engineers,2152,Electronics Engineers
+215,Electrotechnology Engineers,2153,Telecommunications Engineers
+216,"Architects, Planners, Surveyors and Designers",2161,Building Architects
+216,"Architects, Planners, Surveyors and Designers",2162,Landscape Architects
+216,"Architects, Planners, Surveyors and Designers",2163,Product and Garment Designers
+216,"Architects, Planners, Surveyors and Designers",2164,Town and Traffic Planners
+216,"Architects, Planners, Surveyors and Designers",2165,Cartographers and Surveyors
+216,"Architects, Planners, Surveyors and Designers",2166,Graphic and Multimedia Designers
+231,University and Higher Education Teachers,2310,University and Higher Education Teachers
+243,"Sales, Marketing and Public Relations Professionals",2433,Technical and Medical Sales Professionals (excluding ICT)
+243,"Sales, Marketing and Public Relations Professionals",2434,Information and Communications Technology Sales Professionals
+251,Software and Applications Developers and Analysts,2511,Systems Analysts
+251,Software and Applications Developers and Analysts,2512,Software Developers
+251,Software and Applications Developers and Analysts,2513,Web and Multimedia Developers
+251,Software and Applications Developers and Analysts,2514,Applications Programmers
+251,Software and Applications Developers and Analysts,2519,Software and Applications Developers and Analysts Not Elsewhere Classified
+252,Database and Network Professionals,2521,Database Designers and Administrators
+252,Database and Network Professionals,2522,Systems Administrators
+252,Database and Network Professionals,2523,Computer Network Professionals
+252,Database and Network Professionals,2529,Database and Network Professionals Not Elsewhere Classified
+311,Physical and Engineering Science Technicians,3111,Chemical and Physical Science Technicians
+311,Physical and Engineering Science Technicians,3112,Civil Engineering Technicians
+311,Physical and Engineering Science Technicians,3113,Electrical Engineering Technicians
+311,Physical and Engineering Science Technicians,3114,Electronics Engineering Technicians
+311,Physical and Engineering Science Technicians,3115,Mechanical Engineering Technicians
+311,Physical and Engineering Science Technicians,3116,Chemical Engineering Technicians
+311,Physical and Engineering Science Technicians,3117,Mining and Metallurgical Technicians
+311,Physical and Engineering Science Technicians,3118,Draughtspersons
+311,Physical and Engineering Science Technicians,3119,Physical and Engineering Science Technicians Not Elsewhere Classified
+312,"Mining, Manufacturing and Construction Supervisors",3121,Mining Supervisors
+312,"Mining, Manufacturing and Construction Supervisors",3122,Manufacturing Supervisors
+312,"Mining, Manufacturing and Construction Supervisors",3123,Construction Supervisors
+313,Process Control Technicians,3131,Power Production Plant Operators
+313,Process Control Technicians,3132,Incinerator and Water Treatment Plant Operators
+313,Process Control Technicians,3133,Chemical Processing Plant Controllers
+313,Process Control Technicians,3134,Petroleum and Natural Gas Refining Plant Operators
+313,Process Control Technicians,3135,Metal Production Process Controllers
+313,Process Control Technicians,3139,Process Control Technicians Not Elsewhere Classified
+314,Life Science Technicians and Related Associate Professionals,3141,Life Science Technicians (excluding Medical)
+314,Life Science Technicians and Related Associate Professionals,3142,Agricultural Technicians
+314,Life Science Technicians and Related Associate Professionals,3143,Forestry Technicians
+315,Ship and Aircraft Controllers and Technicians,3151,Ships’ Engineers
+315,Ship and Aircraft Controllers and Technicians,3152,Ships’ Deck Officers and Pilots
+315,Ship and Aircraft Controllers and Technicians,3153,Aircraft Pilots and Related Associate Professionals
+315,Ship and Aircraft Controllers and Technicians,3154,Air Traffic Controllers
+315,Ship and Aircraft Controllers and Technicians,3155,Air Traffic Safety Electronics Technicians
+321,Medical and Pharmaceutical Technicians,3211,Medical Imaging and Therapeutic Equipment Technicians
+321,Medical and Pharmaceutical Technicians,3212,Medical and Pathology Laboratory Technicians 
+325,Other Health Associate Professionals,3252,Medical Records and Health Information Technicians
+331,Financial and Mathematical Associate Professionals,3314,"Statistical, Mathematical and Related Associate Professionals"
+351,Information and Communications Technology Operations and User Support Technicians,3511,Information and Communications Technology Operations Technicians
+351,Information and Communications Technology Operations and User Support Technicians,3512,Information and Communications Technology User Support Technicians
+351,Information and Communications Technology Operations and User Support Technicians,3513,Computer Network and Systems Technicians
+351,Information and Communications Technology Operations and User Support Technicians,3514,Web Technicians
+352,Telecommunications and Broadcasting Technicians,3521,Broadcasting and Audiovisual Technicians
+432,Material Recording and Transport Clerks,4322,Production Clerks
+432,Material Recording and Transport Clerks,4323,Transport Clerks
+441,Other Clerical Support Workers,4411,Library Clerks
+441,Other Clerical Support Workers,4412,Mail Carriers and Sorting Clerks
+441,Other Clerical Support Workers,4413,"Coding, Proofreading and Related Clerks"
+441,Other Clerical Support Workers,4414,Scribes and Related Workers
+441,Other Clerical Support Workers,4415,Filing and Copying Clerks
+441,Other Clerical Support Workers,4419,Clerical Support Workers Not Elsewhere Classified
+711,Building Frame and Related Trades Workers,7111,House Builders
+711,Building Frame and Related Trades Workers,7112,Bricklayers and Related Workers
+711,Building Frame and Related Trades Workers,7113,"Stonemasons, Stone Cutters, Splitters and Carvers"
+711,Building Frame and Related Trades Workers,7114,"Concrete Placers, Concrete Finishers and Related Workers"
+711,Building Frame and Related Trades Workers,7115,Carpenters and Joiners
+711,Building Frame and Related Trades Workers,7119,Building Frame and Related Trades Workers Not Elsewhere Classified
+712,Building Finishers and Related Trades Workers,7121,Roofers
+712,Building Finishers and Related Trades Workers,7122,Floor Layers and Tile Setters
+712,Building Finishers and Related Trades Workers,7123,Plasterers
+712,Building Finishers and Related Trades Workers,7124,Insulation Workers
+712,Building Finishers and Related Trades Workers,7125,Glaziers
+712,Building Finishers and Related Trades Workers,7126,Plumbers and Pipe Fitters
+712,Building Finishers and Related Trades Workers,7127,Air Conditioning and Refrigeration Mechanics
+713,"Painters, Building Structure Cleaners and Related Trades Workers",7131,Painters and Related Workers
+713,"Painters, Building Structure Cleaners and Related Trades Workers",7132,Spray Painters and Varnishers
+713,"Painters, Building Structure Cleaners and Related Trades Workers",7133,Building Structure Cleaners
+721,"Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",7211,Metal Moulders and Coremakers
+721,"Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",7212,Welders and Flame Cutters
+721,"Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",7213,Sheet Metal Workers
+721,"Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",7214,Structural Metal Preparers and Erectors
+721,"Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",7215,Riggers and Cable Splicers
+722,"Blacksmiths, Toolmakers and Related Trades Workers",7221,"Blacksmiths, Hammersmiths and Forging Press Workers"
+722,"Blacksmiths, Toolmakers and Related Trades Workers",7222,Toolmakers and Related Workers
+722,"Blacksmiths, Toolmakers and Related Trades Workers",7223,Metal Working Machine Tool Setters and Operators
+722,"Blacksmiths, Toolmakers and Related Trades Workers",7224,"Metal Polishers, Wheel Grinders and Tool Sharpeners"
+723,Machinery Mechanics and Repairers,7231,Motor Vehicle Mechanics and Repairers
+723,Machinery Mechanics and Repairers,7232,Aircraft Engine Mechanics and Repairers
+723,Machinery Mechanics and Repairers,7233,Agricultural and Industrial Machinery Mechanics and Repairers
+723,Machinery Mechanics and Repairers,7234,Bicycle and Related Repairers
+732,Printing Trades Workers,7321,Pre-press Technicians
+732,Printing Trades Workers,7322,Printers 
+732,Printing Trades Workers,7323,Print Finishing and Binding Workers
+741,Electrical Equipment Installers and Repairers,7411,Building and Related Electricians
+741,Electrical Equipment Installers and Repairers,7412,Electrical Mechanics and Fitters
+741,Electrical Equipment Installers and Repairers,7413,Electrical Line Installers and Repairers 
+742,Electronics and Telecommunications Installers and Repairers,7421,Electronics Mechanics and Servicers
+742,Electronics and Telecommunications Installers and Repairers,7422,Information and Communications Technology Installers and Servicers
+753,Garment and Related Trades Workers,7531,"Tailors, Dressmakers, Furriers and Hatters"
+753,Garment and Related Trades Workers,7532,Garment and Related Patternmakers and Cutters
+753,Garment and Related Trades Workers,7533,"Sewing, Embroidery and Related Workers"
+753,Garment and Related Trades Workers,7534,Upholsterers and Related Workers
+753,Garment and Related Trades Workers,7535,"Pelt Dressers, Tanners and Fellmongers"
+753,Garment and Related Trades Workers,7536,Shoemakers and Related Workers
+754,Other Craft and Related Workers,7541,Underwater Divers
+754,Other Craft and Related Workers,7542,Shotfirers and Blasters
+754,Other Craft and Related Workers,7543,Product Graders and Testers (excluding Foods and Beverages)
+754,Other Craft and Related Workers,7544,Fumigators and Other Pest and Weed Controllers
+754,Other Craft and Related Workers,7549,Craft and Related Workers Not Elsewhere Classified
+811,Mining and Mineral Processing Plant Operators,8111,Miners and Quarriers
+811,Mining and Mineral Processing Plant Operators,8112,Mineral and Stone Processing Plant Operators
+811,Mining and Mineral Processing Plant Operators,8113,Well Drillers and Borers and Related Workers
+811,Mining and Mineral Processing Plant Operators,8114,"Cement, Stone and Other Mineral Products Machine Operators"
+812,Metal Processing and Finishing Plant Operators,8121,Metal Processing Plant Operators
+812,Metal Processing and Finishing Plant Operators,8122,"Metal Finishing, Plating and Coating Machine Operators"
+813,Chemical and Photographic Products Plant and Machine Operators,8131,Chemical Products Plant and Machine Operators
+813,Chemical and Photographic Products Plant and Machine Operators,8132,Photographic Products Machine Operators
+814,"Rubber, Plastic and Paper Products Machine Operators",8141,Rubber Products Machine Operators
+814,"Rubber, Plastic and Paper Products Machine Operators",8142,Plastic Products Machine Operators
+814,"Rubber, Plastic and Paper Products Machine Operators",8143,Paper Products Machine Operators
+815,"Textile, Fur and Leather Products Machine Operators",8151,"Fibre Preparing, Spinning and Winding Machine Operators"
+815,"Textile, Fur and Leather Products Machine Operators",8152,Weaving and Knitting Machine Operators
+815,"Textile, Fur and Leather Products Machine Operators",8153,Sewing Machine Operators
+815,"Textile, Fur and Leather Products Machine Operators",8154,"Bleaching, Dyeing and Fabric Cleaning Machine Operators"
+815,"Textile, Fur and Leather Products Machine Operators",8155,Fur and Leather Preparing Machine Operators
+815,"Textile, Fur and Leather Products Machine Operators",8156,Shoemaking and Related Machine Operators
+815,"Textile, Fur and Leather Products Machine Operators",8157,Laundry Machine Operators
+815,"Textile, Fur and Leather Products Machine Operators",8159,"Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified"
+816,Food and Related Products Machine Operators,8160,Food and Related Products Machine Operators
+817,Wood Processing and Papermaking Plant Operators,8171,Pulp and Papermaking Plant Operators
+817,Wood Processing and Papermaking Plant Operators,8172,Wood Processing Plant Operators
+818,Other Stationary Plant and Machine Operators,8181,Glass and Ceramics Plant Operators
+818,Other Stationary Plant and Machine Operators,8182,Steam Engine and Boiler Operators
+818,Other Stationary Plant and Machine Operators,8183,"Packing, Bottling and Labelling Machine Operators"
+818,Other Stationary Plant and Machine Operators,8189,Stationary Plant and Machine Operators Not Elsewhere Classified
+821,Assemblers,8211,Mechanical Machinery Assemblers
+821,Assemblers,8212,Electrical and Electronic Equipment Assemblers
+821,Assemblers,8219,Assemblers Not Elsewhere Classified
+834,Mobile Plant Operators,8341,Mobile Farm and Forestry Plant Operators
+834,Mobile Plant Operators,8342,Earthmoving and Related Plant Operators
+834,Mobile Plant Operators,8343,"Crane, Hoist and Related Plant Operators"
+834,Mobile Plant Operators,8344,Lifting Truck Operators
+835,Ships’ Deck Crews and Related Workers,8350,Ships’ Deck Crews and Related Workers
+921,"Agricultural, Forestry and Fishery Labourers",9211,Crop Farm Labourers
+921,"Agricultural, Forestry and Fishery Labourers",9212,Livestock Farm Labourers
+921,"Agricultural, Forestry and Fishery Labourers",9213,Mixed Crop and Livestock Farm Labourers
+921,"Agricultural, Forestry and Fishery Labourers",9214,Garden and Horticultural Labourers
+921,"Agricultural, Forestry and Fishery Labourers",9215,Forestry Labourers
+921,"Agricultural, Forestry and Fishery Labourers",9216,Fishery and Aquaculture Labourers
+931,Mining and Construction Labourers,9311,Mining and Quarrying Labourers
+931,Mining and Construction Labourers,9312,Civil Engineering Labourers
+931,Mining and Construction Labourers,9313,Building Construction Labourers
+932,Manufacturing Labourers,9321,Hand Packers
+932,Manufacturing Labourers,9329,Manufacturing Labourers Not Elsewhere Classified
+933,Transport and Storage Labourers,9333,Freight Handlers
+962,Other Elementary Workers,9629,Elementary Workers Not Elsewhere Classified

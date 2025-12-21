@@ -17,8 +17,8 @@ GREENCOMP_FRAMEWORK = [
 def show_greencomp_page():
     """Display the GreenComp overview page"""
     
-    st.title("GreenComp Competence Framework")
-    st.caption("European sustainability competence framework – 4 domains, 12 competences")
+    st.title("GreenComp European Competence Framework")
+    st.caption("4 domains & 12 competences to assess environmental abilities")
     
     # Add PDF download link
     col1, col2 = st.columns([3, 1])
@@ -36,7 +36,6 @@ def show_greencomp_page():
             st.warning("📄 Official documentation not found")
     
     st.markdown("---")
-    st.subheader("Sustainability Competence Domains")
     
     domain_descriptions = {
         "Embodying sustainability values": "Nurturing values that support sustainability and driving actions accordingly.",

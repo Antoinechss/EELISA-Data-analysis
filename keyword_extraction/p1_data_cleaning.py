@@ -47,5 +47,4 @@ corpus_df = corpus_df[[
     "clean_description"
 ]].reset_index(drop=True)
 
-print("\nExample cleaned description:\n")
-print(corpus_df["clean_description"].iloc[0][:500])
+corpus_df.to_csv('cleaned_corpus.csv', index=False)

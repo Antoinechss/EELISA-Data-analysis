@@ -87,10 +87,12 @@ def classify_4digit_batch(jobs_batch):
     
     # Process each 3-digit group separately
     for three_digit, job_group in jobs_by_3digit.items():
+        three_digit = str(three_digit)  # Add this line to convert to string immediately
+        
         if three_digit not in isco_4digit_by_3digit:
             # If no 4-digit subcategories available, skip
             for idx, job in job_group:
-                all_classifications[idx] = three_digit + "0"  # Convert to string first
+                all_classifications[idx] = three_digit + "0"  # Now this will work
             continue
         
         available_4digits = isco_4digit_by_3digit[three_digit]

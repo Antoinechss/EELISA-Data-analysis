@@ -8,6 +8,16 @@ eur_jobs = pd.read_csv(eur_jobs_path)
 presentatio_dataset_path = '/Users/antoinechosson/Desktop/EELISA/EELISA-Data-analysis/datasets/overview_dataset.csv'
 presentatio_dataset = pd.read_csv(presentatio_dataset_path)
 
+EELISA_COUNTRIES = [
+    "France",
+    "Germany", 
+    "Italy",
+    "Spain",
+    "Hungary",
+    "Turkey",
+    "Romania"
+]
+
 def show_overview_page():
     """Display the Job Offers Dataset page"""
 
@@ -66,20 +76,10 @@ def show_overview_page():
     with col4:
         st.metric("ISCO-3 occupations", eur_jobs["isco_3_digit_label"].nunique() if "isco_3_digit_label" in eur_jobs.columns else "N/A")
 
-    # =======================
-    # DATA VISUALIZATIONS
-    # =======================
+    # -----------------------
+    # Jobs retrievals per country 
+    # -----------------------    
     if not eur_jobs.empty and "country" in eur_jobs.columns:
-
-        EELISA_COUNTRIES = [
-            "France",
-            "Germany", 
-            "Italy",
-            "Spain",
-            "Hungary",
-            "Turkey",
-            "Romania"
-        ]
 
         # Aggregate job counts
         country_counts = eur_jobs["country"].value_counts()
@@ -136,8 +136,7 @@ def show_overview_page():
 
         isco_counts.columns = ["isco_3_label", "job_count"]
 
-        # Optional: keep only top 15 for readability
-        TOP_N = 15
+        TOP_N = 20
         isco_counts = isco_counts.head(TOP_N)
 
         fig_isco = px.bar(
